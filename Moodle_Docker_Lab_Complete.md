@@ -233,8 +233,6 @@ cd moodle-docker
 ใช้ Text Editor สร้างไฟล์ `docker-compose.yml` ดังนี้:
 
 ```yaml
-version: '3.8'
-
 services:
   db:
     image: mariadb:latest
